@@ -9,4 +9,4 @@ WEB APP DEMO <a href="https://gmayuri1904-multiple-disease-detection-app-e09xhm.
 
 
 
-<!-- Step 2 : We have to create Hard Binding Booklet of this Major Project -->
+Step 2 : We have to create Hard Binding Booklet of this Major Project
